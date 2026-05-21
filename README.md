@@ -1,3 +1,5 @@
+Paper: Reconsidering Representation Alignment for Multi-View Clustering ([Link](https://api.nva.unit.no/publication/0198cc44ed90-5bf27093-4a29-4344-96f6-0149206dbb41))
+
 # SiMVC & CoMVC
 
 This repository provides the implementations of SiMVC and CoMVC, presented in the paper:
